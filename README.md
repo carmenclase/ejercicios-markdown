@@ -1,7 +1,7 @@
 # Introducción a las Redes de Ordenadores
 Las redes de computadoras son fundamentales en la comunicación moderna, permitiendo la interconexión de dispositivos para compartir información y recursos. En este documento, encontrarás información básica sobre conceptos de redes y direccionamiento IP.
 
-## Contenido
+## Contenido:
 1. **Conceptos Básicos de Redes**
     - Tipos de Redes
     - Topologías de Redes
