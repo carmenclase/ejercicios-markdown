@@ -11,7 +11,7 @@ HTML fue desarrollado por Tim Berners-Lee a finales de los años 80 y ha sido fu
 - **Interactividad**: A través de etiquetas como `<form>` y `<button>`, HTML permite la creación de interfaces interactivas para los usuarios.
 
 ## Versiones de HTML
-| **Versión** | **Año de Lanzamiento** | **Descripción** |
+| Versión | Año de Lanzamiento | Descripción |
 | ------- | ------------------ | ----------- |
 | HTML 1.0 | 1993 | La primera versión pública de HTML |
 | HTML 2.0 | 1995 | Estándar básico con etiquetas esenciales |
